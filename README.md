@@ -1,0 +1,3 @@
+# CalculatorwithEvalJS
+
+This project is an enhancement of an earlier calculator project.  The goal of this project is to use the eval method to make the calculator more sophisticated. Create a webpage with buttons labeled 0 through 9. You should also include buttons to add, subtract, multiply, and divide, as well as an "equals" button to return the result of the operation. Be sure to create one text field that will display the numbers and operators the user enters, and then the result once the equals button is selected. It should look and behave very much like the simple calculators with which you are familiar. 
